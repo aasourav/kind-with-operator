@@ -1,0 +1,15 @@
+dependencies:
+- name: db
+  repository: ""
+  version: 0.1.0
+- name: monitoring
+  repository: ""
+  version: 0.1.0
+- name: opensearch
+  repository: ""
+  version: 0.1.0
+- name: cert-manager
+  repository: ""
+  version: 0.1.0
+digest: sha256:42537f0303ecf5f06c9c52c02c2f8518d223c68e4e9d152d37a01549c4b4b637
+generated: "2024-05-30T10:36:50.866387541+06:00"

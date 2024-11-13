@@ -1,0 +1,15 @@
+# Default values for dependent-manifests.
+# This is a YAML-formatted file.
+# Declare variables to be passed into your templates.
+
+opensearch:
+  enabled: true
+
+db:
+  enabled: true
+
+monitoring:
+  enabled: true
+
+cert-manager:
+  enabled: true

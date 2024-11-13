@@ -1,0 +1,12 @@
+# Default values for aescontroller.
+# This is a YAML-formatted file.
+# Declare variables to be passed into your templates.
+
+aesOperator:
+  replicaCount: 1
+  image:
+    repository: devopsaes/controller
+    tag: "4.0.22"
+
+
+
